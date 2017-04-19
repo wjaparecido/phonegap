@@ -1,0 +1,257 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.feitoamaochocolates.com.br" resolutions="1x" timestamp="1490544510423">
+  <folder name="css">
+    <file name="site_global.css" crc="135879800"/>
+    <file name="master_a-mestre.css" crc="4092170860" ref="index:contato:produtos:missao"/>
+    <file name="index.css" crc="4206196551" ref="index"/>
+    <file name="iefonts_index.css" crc="83609043" ref="index"/>
+    <file name="contato.css" crc="38731398" ref="contato"/>
+    <file name="produtos.css" crc="187486769" ref="produtos"/>
+    <file name="missao.css" crc="4099436729" ref="missao"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="touchswipe.js" crc="404375771" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:index:phone>missao:phone>produtos:phone>contato:phone>social"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social"/>
+  </folder>
+  <folder name="images">
+    <file name="a-mestre-favicon.ico" crc="202679953" ref="phone>index:index"/>
+    <file name="faixa.jpg" crc="54570043" seo="true" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="logopswebstore.png" crc="3961124225" seo="true" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social"/>
+    <file name="b1362x181.jpg" crc="4214498503" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social:index:missao:produtos:contato"/>
+    <file name="bn1362x181.jpg" crc="3856342482" seo="true" ref="phone>index"/>
+    <file name="bn4362x181.jpg" crc="129433890" seo="true" ref="phone>index"/>
+    <file name="bn2362x181.jpg" crc="3815622448" seo="true" ref="phone>index"/>
+    <file name="bn11362x182.jpg" crc="318098473" seo="true" ref="phone>index"/>
+    <file name="bn5362x181.png" crc="4280803128" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>produtos:index:produtos"/>
+    <file name="chocos-u3728-fr.jpg" crc="4022035349" ref="phone>index"/>
+    <file name="satisfacao.jpg" crc="296788396" ref="phone>index:index"/>
+    <file name="doces_finos.jpg" crc="11775779" ref="phone>index:index"/>
+    <file name="rodape362x89.jpg" crc="3761320328" seo="true" ref="phone>index"/>
+    <file name="stripes-662620_1920.jpg" crc="4078204803" ref="phone>index:phone>missao:phone>produtos:phone>contato:index:missao:produtos:contato"/>
+    <file name="u3787-4.png" crc="3831597417" ref="phone>missao"/>
+    <file name="u3786-8.png" crc="76497912" ref="phone>missao"/>
+    <file name="u3781-4.png" crc="40939764" ref="phone>missao"/>
+    <file name="u3780-7.png" crc="7934819" ref="phone>missao"/>
+    <file name="u3783-4.png" crc="160640957" ref="phone>missao"/>
+    <file name="u3782-5.png" crc="275693870" ref="phone>missao"/>
+    <file name="u3785-4.png" crc="190438344" ref="phone>missao"/>
+    <file name="u3784-5.png" crc="77615038" ref="phone>missao"/>
+    <file name="bolacha-786x533-87377x256.jpg" crc="329581674" seo="true" ref="phone>produtos"/>
+    <file name="bemcasado-786x533-6377x256.jpg" crc="4053813552" seo="true" ref="phone>produtos"/>
+    <file name="alpino-786x533-73377x256.jpg" crc="354542928" seo="true" ref="phone>produtos"/>
+    <file name="trufas-786x533-16377x256.jpg" crc="3916676525" seo="true" ref="phone>produtos"/>
+    <file name="caixinha-786x533-62377x256.jpg" crc="46093666" seo="true" ref="phone>produtos"/>
+    <file name="bombom-786x533-64377x256.jpg" crc="31253956" seo="true" ref="phone>produtos"/>
+    <file name="doces-festas-786x533-74377x256.jpg" crc="3868507440" seo="true" ref="phone>produtos"/>
+    <file name="maca_original353x235.jpg" crc="207229786" seo="true" ref="phone>produtos"/>
+    <file name="minipanetone-786x533-39377x256.jpg" crc="4218466609" seo="true" ref="phone>produtos"/>
+    <file name="coracao-786x533-51377x256.jpg" crc="407725723" seo="true" ref="phone>produtos"/>
+    <file name="panetonetrufado-786x533-8377x256.jpg" crc="279169156" seo="true" ref="phone>produtos"/>
+    <file name="pirulitos-786x533-45377x256.jpg" crc="4289687477" seo="true" ref="phone>produtos"/>
+    <file name="bolacha_cobertura377x256.jpg" crc="154198267" seo="true" ref="phone>produtos"/>
+    <file name="potinho-786x533-66377x256.jpg" crc="4014497524" seo="true" ref="phone>produtos"/>
+    <file name="ovos-786x533-14377x256.jpg" crc="4262604039" seo="true" ref="phone>produtos"/>
+    <file name="bolacha-786x533-87-crop-u3897.jpg" crc="4145738510" ref="phone>produtos"/>
+    <file name="bemcasado-786x533-6-crop-u3909.jpg" crc="4253944480" ref="phone>produtos"/>
+    <file name="alpino-786x533-73-crop-u3885.jpg" crc="67953536" ref="phone>produtos"/>
+    <file name="trufas-786x533-16-crop-u3907.jpg" crc="4217839503" ref="phone>produtos"/>
+    <file name="caixinha-786x533-62-crop-u3903.jpg" crc="4230481214" ref="phone>produtos"/>
+    <file name="bombom-786x533-64-crop-u3905.jpg" crc="3837147063" ref="phone>produtos"/>
+    <file name="doces-festas-786x533-74-crop-u3889.jpg" crc="27154870" ref="phone>produtos"/>
+    <file name="maca_original-crop-u3893.jpg" crc="357197071" ref="phone>produtos"/>
+    <file name="minipanetone-786x533-39-crop-u3895.jpg" crc="465614323" ref="phone>produtos"/>
+    <file name="coracao-786x533-51-crop-u3899.jpg" crc="41457094" ref="phone>produtos"/>
+    <file name="panetonetrufado-786x533-8-crop-u3891.jpg" crc="511058334" ref="phone>produtos"/>
+    <file name="pirulitos-786x533-45-crop-u3887.jpg" crc="3993079582" ref="phone>produtos"/>
+    <file name="bolacha_cobertura-crop-u3881.jpg" crc="3802688328" ref="phone>produtos"/>
+    <file name="potinho-786x533-66-crop-u3883.jpg" crc="3882808390" ref="phone>produtos"/>
+    <file name="ovos-786x533-14-crop-u3901.jpg" crc="4205015933" ref="phone>produtos"/>
+    <file name="car.png" crc="4072218753" seo="true" ref="phone>produtos:phone>social:index:missao:produtos:contato"/>
+    <file name="u4316-4.png" crc="468334682" ref="phone>contato"/>
+    <file name="u4455_states.png" crc="413192041" ref="phone>social"/>
+    <file name="u4455_states-r.png" crc="3956028352" ref="phone>social"/>
+    <file name="u4457_states.png" crc="4116453537" ref="phone>social"/>
+    <file name="u4457_states-r.png" crc="337857779" ref="phone>social"/>
+    <file name="u4459_states.png" crc="3842577622" ref="phone>social"/>
+    <file name="u4459_states-r.png" crc="356584551" ref="phone>social"/>
+    <file name="u4461_states.png" crc="3768515022" ref="phone>social"/>
+    <file name="u4461_states-r.png" crc="4213144916" ref="phone>social"/>
+    <file name="back.jpg" crc="18506858" ref="phone>social"/>
+    <file name="b1-crop-u466.jpg" crc="3927890154" ref="index:missao:produtos:contato"/>
+    <file name="bn1-crop-u522.jpg" crc="4195268323" ref="index:missao:produtos:contato"/>
+    <file name="bn4-crop-u536.jpg" crc="3890829130" ref="index:missao:produtos:contato"/>
+    <file name="bn2-crop-u480.jpg" crc="3935774654" ref="index:missao:produtos:contato"/>
+    <file name="bn11-crop-u494.jpg" crc="3862479593" ref="index:missao:produtos:contato"/>
+    <file name="bn5-crop-u508.png" crc="199154922" ref="index:missao:produtos:contato"/>
+    <file name="u134_states.png" crc="413192041" ref="index:missao:produtos:contato"/>
+    <file name="u134_states-r.png" crc="3956028352" ref="index:missao:produtos:contato"/>
+    <file name="u140_states.png" crc="4116453537" ref="index:missao:produtos:contato"/>
+    <file name="u140_states-r.png" crc="337857779" ref="index:missao:produtos:contato"/>
+    <file name="u145_states.png" crc="3842577622" ref="index:missao:produtos:contato"/>
+    <file name="u145_states-r.png" crc="356584551" ref="index:missao:produtos:contato"/>
+    <file name="u150_states.png" crc="3768515022" ref="index:missao:produtos:contato"/>
+    <file name="u150_states-r.png" crc="4213144916" ref="index:missao:produtos:contato"/>
+    <file name="rodape.jpg" crc="3794428981" seo="true" ref="index:missao:produtos:contato"/>
+    <file name="u1033_states.png" crc="413192041" ref="index"/>
+    <file name="u1033_states-r.png" crc="3956028352" ref="index"/>
+    <file name="u1035_states.png" crc="4116453537" ref="index"/>
+    <file name="u1035_states-r.png" crc="337857779" ref="index"/>
+    <file name="u1037_states.png" crc="3842577622" ref="index"/>
+    <file name="u1037_states-r.png" crc="356584551" ref="index"/>
+    <file name="u1039_states.png" crc="3768515022" ref="index"/>
+    <file name="u1039_states-r.png" crc="4213144916" ref="index"/>
+    <file name="footer01.jpg" crc="336616055" seo="true" ref="index:missao:produtos:contato"/>
+    <file name="footer02.jpg" crc="4017733999" seo="true" ref="index:missao:produtos:contato"/>
+    <file name="footer03.jpg" crc="4137321457" seo="true" ref="index:missao:produtos:contato"/>
+    <file name="u2635-4.png" crc="4276089948" ref="missao"/>
+    <file name="u2634-8.png" crc="405190886" ref="missao"/>
+    <file name="u1230-4.png" crc="4019725272" ref="missao"/>
+    <file name="u1227-7.png" crc="50598774" ref="missao"/>
+    <file name="u1236-4.png" crc="160640957" ref="missao"/>
+    <file name="u1235-5.png" crc="3772948084" ref="missao"/>
+    <file name="u1245-4.png" crc="190438344" ref="missao"/>
+    <file name="u1244-5.png" crc="307011140" ref="missao"/>
+    <file name="brigadeiro-tradicional.png" crc="117236932" seo="true" ref="missao"/>
+    <file name="beijinho.png" crc="122120629" seo="true" ref="missao"/>
+    <file name="minitrufa-cereja-474x325.png" crc="163670551" seo="true" ref="missao"/>
+    <file name="pm_paobom1.png" crc="4145832285" seo="true" ref="missao"/>
+    <file name="u1176_states.png" crc="413192041" ref="missao"/>
+    <file name="u1176_states-r.png" crc="3956028352" ref="missao"/>
+    <file name="u1147_states.png" crc="4116453537" ref="missao"/>
+    <file name="u1147_states-r.png" crc="337857779" ref="missao"/>
+    <file name="u1139_states.png" crc="3842577622" ref="missao"/>
+    <file name="u1139_states-r.png" crc="356584551" ref="missao"/>
+    <file name="u1159_states.png" crc="3768515022" ref="missao"/>
+    <file name="u1159_states-r.png" crc="4213144916" ref="missao"/>
+    <file name="satisfeita-698x486-58.jpg" crc="79980829" seo="true" ref="missao"/>
+    <file name="vista-946x663-59.jpg" crc="418466560" seo="true" ref="missao"/>
+    <file name="valor-786x533-34.jpg" crc="426113280" seo="true" ref="missao"/>
+    <file name="u1321_states.png" crc="413192041" ref="produtos"/>
+    <file name="u1321_states-r.png" crc="3956028352" ref="produtos"/>
+    <file name="u1306_states.png" crc="4116453537" ref="produtos"/>
+    <file name="u1306_states-r.png" crc="337857779" ref="produtos"/>
+    <file name="u1325_states.png" crc="3842577622" ref="produtos"/>
+    <file name="u1325_states-r.png" crc="356584551" ref="produtos"/>
+    <file name="u1310_states.png" crc="3768515022" ref="produtos"/>
+    <file name="u1310_states-r.png" crc="4213144916" ref="produtos"/>
+    <file name="bolacha-786x533-87.jpg" crc="4163634676" seo="true" ref="produtos"/>
+    <file name="bemcasado-786x533-6-crop-u1984.jpg" crc="157057517" ref="produtos"/>
+    <file name="alpino-786x533-73.jpg" crc="58845324" seo="true" ref="produtos"/>
+    <file name="trufas-786x533-16.jpg" crc="363351119" seo="true" ref="produtos"/>
+    <file name="caixinha-786x533-62.jpg" crc="131388082" seo="true" ref="produtos"/>
+    <file name="bombom-786x533-64.jpg" crc="32973347" seo="true" ref="produtos"/>
+    <file name="doces-festas-786x533-74.jpg" crc="3770135995" seo="true" ref="produtos"/>
+    <file name="maca_original.jpg" crc="190335478" seo="true" ref="produtos"/>
+    <file name="minipanetone-786x533-39.jpg" crc="3839966434" seo="true" ref="produtos"/>
+    <file name="coracao-786x533-51.jpg" crc="4188960595" seo="true" ref="produtos"/>
+    <file name="panetonetrufado-786x533-8.jpg" crc="340587798" seo="true" ref="produtos"/>
+    <file name="pirulitos-786x533-45.jpg" crc="200110032" seo="true" ref="produtos"/>
+    <file name="bolacha_cobertura.jpg" crc="4136302602" seo="true" ref="produtos"/>
+    <file name="potinho-786x533-66.jpg" crc="3946028789" seo="true" ref="produtos"/>
+    <file name="ovos-786x533-14.jpg" crc="4136098587" seo="true" ref="produtos"/>
+    <file name="bolacha-786x533-87-crop-u2017.jpg" crc="247628974" ref="produtos"/>
+    <file name="bemcasado-786x533-6-crop-u1990.jpg" crc="4041652145" ref="produtos"/>
+    <file name="alpino-786x533-73-crop-u1963.jpg" crc="4521083" ref="produtos"/>
+    <file name="trufas-786x533-16-crop-u1909.jpg" crc="4016255885" ref="produtos"/>
+    <file name="caixinha-786x533-62-crop-u1936.jpg" crc="4233135086" ref="produtos"/>
+    <file name="bombom-786x533-64-crop-u2044.jpg" crc="313086786" ref="produtos"/>
+    <file name="doces-festas-786x533-74-crop-u2098.jpg" crc="3803549393" ref="produtos"/>
+    <file name="maca_original-crop-u2754.jpg" crc="243685875" ref="produtos"/>
+    <file name="minipanetone-786x533-39-crop-u2152.jpg" crc="256532089" ref="produtos"/>
+    <file name="coracao-786x533-51-crop-u2071.jpg" crc="4244836425" ref="produtos"/>
+    <file name="panetonetrufado-786x533-8-crop-u2179.jpg" crc="99640504" ref="produtos"/>
+    <file name="pirulitos-786x533-45-crop-u2206.jpg" crc="53296699" ref="produtos"/>
+    <file name="bolacha_cobertura-crop-u2781.jpg" crc="4240225138" ref="produtos"/>
+    <file name="potinho-786x533-66-crop-u2233.jpg" crc="253367103" ref="produtos"/>
+    <file name="ovos-786x533-14-crop-u2260.jpg" crc="449904534" ref="produtos"/>
+    <file name="u2453_states.png" crc="413192041" ref="contato"/>
+    <file name="u2453_states-r.png" crc="3956028352" ref="contato"/>
+    <file name="u2546_states.png" crc="4116453537" ref="contato"/>
+    <file name="u2546_states-r.png" crc="337857779" ref="contato"/>
+    <file name="u2463_states.png" crc="3842577622" ref="contato"/>
+    <file name="u2463_states-r.png" crc="356584551" ref="contato"/>
+    <file name="u2458_states.png" crc="3768515022" ref="contato"/>
+    <file name="u2458_states-r.png" crc="4213144916" ref="contato"/>
+    <file name="logo_feitoamaop.png" crc="445952302" seo="true" ref="index:missao:produtos:contato"/>
+    <file name="chocos-u558-fr.jpg" crc="4022035349" ref="index"/>
+    <file name="visualeditor_-_icon_-_menusvg-u5604-4-fr.png" crc="219397401" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social"/>
+    <file name="multiplication-symbol-icon-0910125830-u5604-4-a-fr.png" crc="3904718972" ref="phone>index:phone>missao:phone>produtos:phone>contato:phone>social"/>
+    <file name="u5589-4-a.png" crc="3940752705" ref="phone>index"/>
+    <file name="u5592.png" crc="4287920901" ref="phone>index"/>
+    <file name="u5592-a.png" crc="3867464980" ref="phone>index"/>
+    <file name="u5601.png" crc="358232938" ref="phone>index"/>
+    <file name="u5601-a.png" crc="161307419" ref="phone>index"/>
+    <file name="u5581.png" crc="210883811" ref="phone>index"/>
+    <file name="u5581-a.png" crc="3839425403" ref="phone>index"/>
+    <file name="u5571.png" crc="4186545562" ref="phone>index"/>
+    <file name="u5571-a.png" crc="3972436867" ref="phone>index"/>
+    <file name="u5843.png" crc="3940752705" ref="phone>missao"/>
+    <file name="u5843-a.png" crc="3940752705" ref="phone>missao"/>
+    <file name="u5838-4-a.png" crc="3867464980" ref="phone>missao"/>
+    <file name="u5850.png" crc="358232938" ref="phone>missao"/>
+    <file name="u5850-a.png" crc="161307419" ref="phone>missao"/>
+    <file name="u5859.png" crc="210883811" ref="phone>missao"/>
+    <file name="u5859-a.png" crc="3839425403" ref="phone>missao"/>
+    <file name="u5829.png" crc="4186545562" ref="phone>missao"/>
+    <file name="u5829-a.png" crc="3972436867" ref="phone>missao"/>
+    <file name="u5963.png" crc="3940752705" ref="phone>produtos"/>
+    <file name="u5963-a.png" crc="3940752705" ref="phone>produtos"/>
+    <file name="u5958.png" crc="4287920901" ref="phone>produtos"/>
+    <file name="u5958-a.png" crc="3867464980" ref="phone>produtos"/>
+    <file name="u5970-4-a.png" crc="161307419" ref="phone>produtos"/>
+    <file name="u5979.png" crc="210883811" ref="phone>produtos"/>
+    <file name="u5979-a.png" crc="3839425403" ref="phone>produtos"/>
+    <file name="u5949.png" crc="4186545562" ref="phone>produtos"/>
+    <file name="u5949-a.png" crc="3972436867" ref="phone>produtos"/>
+    <file name="u6083.png" crc="3940752705" ref="phone>contato"/>
+    <file name="u6083-a.png" crc="3940752705" ref="phone>contato"/>
+    <file name="u6078.png" crc="4287920901" ref="phone>contato"/>
+    <file name="u6078-a.png" crc="3867464980" ref="phone>contato"/>
+    <file name="u6090.png" crc="358232938" ref="phone>contato"/>
+    <file name="u6090-a.png" crc="161307419" ref="phone>contato"/>
+    <file name="u6099-4-a.png" crc="3839425403" ref="phone>contato"/>
+    <file name="u6069.png" crc="4186545562" ref="phone>contato"/>
+    <file name="u6069-a.png" crc="3972436867" ref="phone>contato"/>
+    <file name="u6203.png" crc="3940752705" ref="phone>social"/>
+    <file name="u6203-a.png" crc="3940752705" ref="phone>social"/>
+    <file name="u6198.png" crc="4287920901" ref="phone>social"/>
+    <file name="u6198-a.png" crc="3867464980" ref="phone>social"/>
+    <file name="u6210.png" crc="358232938" ref="phone>social"/>
+    <file name="u6210-a.png" crc="161307419" ref="phone>social"/>
+    <file name="u6219.png" crc="210883811" ref="phone>social"/>
+    <file name="u6219-a.png" crc="3839425403" ref="phone>social"/>
+    <file name="u6189-4-a.png" crc="3972436867" ref="phone>social"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-mestre.css" crc="138889765" ref="phone>contato:phone>social:phone>index:phone>produtos:phone>missao"/>
+      <file name="contato.css" crc="344679976" ref="phone>contato"/>
+      <file name="social.css" crc="3996113249" ref="phone>social"/>
+      <file name="index.css" crc="4025681938" ref="phone>index"/>
+      <file name="produtos.css" crc="274742844" ref="phone>produtos"/>
+      <file name="missao.css" crc="444639186" ref="phone>missao"/>
+    </folder>
+    <file name="index.html" crc="3810277225" seo="true" mt="1490544499654" redirect="true"/>
+    <file name="missao.html" crc="4011388031" seo="true" mt="1490544502003" redirect="true"/>
+    <file name="produtos.html" crc="4166588008" seo="true" mt="1490544505830" redirect="true"/>
+    <file name="contato.html" crc="298390784" seo="true" mt="1490544508087" redirect="true"/>
+    <file name="social.html" crc="3892855665" seo="true" mt="1490544509930" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4149310981" seo="true" mt="1489866645664" redirect="true"/>
+  <file name="missao.html" crc="4155960688" seo="true" mt="1489866645664" redirect="true"/>
+  <file name="produtos.html" crc="4231423917" seo="true" mt="1489866657095" redirect="true"/>
+  <file name="contato.html" crc="469397652" seo="true" mt="1489866645664" redirect="true"/>
+</manifest>
